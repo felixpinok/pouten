@@ -6,7 +6,6 @@ var tono = 174;
 var velTono = 0.5;
 var status;
 
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   colorMode(HSB);
